@@ -1,0 +1,7 @@
+---
+title: What is plain language?
+---
+
+As [PLAIN](http://www.plainlanguage.gov/whatisPL/index.cfm), the leading authority on plain language, states, “Plain language is communication your audience can understand the first time they read or hear it.” Some hallmarks of plain language are an absence of technical terms, acronyms, and jargon; use of first-person point of view; and short, declarative sentences. In short, it’s language that communicates what it needs to convey without frills or extraneous material. It targets its intended audience and meets them where they’re at.
+
+This isn’t to say that plain language can’t be elegant — to the contrary! When you write in plain language, your focus should still be communicating your intent as precisely as you can — a task that relies on careful word choice and awareness of tone. What many people forget as they write is that unnecessarily complex writing can frustrate and alienate the reader, creating a negative experience (and preventing the reader from getting the information they need). Plain language, on the other hand, creates a positive reader experience and helps readers get to the information they’re seeking, thereby asserting its utility and elegance.
