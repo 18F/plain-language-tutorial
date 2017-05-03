@@ -1,6 +1,6 @@
 ## 18F plain language tutorial
 
-This is a repository of documents for 18F Edu's "Plain language tutorial" course (https://pages.18f.gov/plain-language-tutorial/). 
+This is a repository of documents for 18F Edu's ["Plain language tutorial" course](https://plain-language-tutorial.18f.gov). 
 
 Plain language is concise, straightforward writing. It avoids jargon and obscurity. It considers broad audiences. It makes reading simple, but it doesn’t condescend. And if you’re writing for the government, plain language is the law.
 
